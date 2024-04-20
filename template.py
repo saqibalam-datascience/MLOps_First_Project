@@ -15,17 +15,17 @@ list_of_files = [
     'src/utils/__init__.py',
     'src/utils/utils.py',
     'src/logger/logging.py',
-    'src/exception/exception',
-    'tests/unit/__init__.py',
-    'tests/integration/__init__.py',
-    'init_setup.sh',
-    'requirements.txt',
-    'requirements_dev.txt',
-    'setup.py',
-    'setup.cfg',
-    'pyproject.toml',
-    'tox.ini',
-    'experiment/experiments.ipynb'
+    'src/exception/exception.py',
+    "tests/__init__.py",
+    "tests/unit/__init__.py",
+    "tests/integration/__init__.py",
+    "init_setup.sh",
+    "requirements.txt", 
+    "setup.py",
+    "setup.cfg",
+    "pyproject.toml",
+    "tox.ini",
+    "experiments/experiments.ipynb", 
 ]
 
 
